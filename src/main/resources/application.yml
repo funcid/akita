@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: akita
+
+yandex-api:
+  url: "https://api.iot.yandex.net"
+  token: ${YANDEX_API_SECRET_KEY}
